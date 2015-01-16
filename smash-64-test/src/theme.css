@@ -1,0 +1,57 @@
+
+.character {
+    width: 57px;
+    height: 55px;
+    display: inline-block;
+    background: url("characters.png");
+
+}
+
+}
+.luigi {
+    background-position: 0px 0px
+}
+
+.mario {
+    background-position: -57px 0px
+}
+
+.donkey-kong {
+    background-position: -114px 0px
+}
+
+.link {
+    background-position: -171px 0px
+}
+
+.samus {
+    background-position: -228px 0px
+}
+
+.captain-falcon {
+    background-position: -285px 0px
+}
+
+.ness {
+    background-position: 0px  55px
+}
+
+.yoshi {
+    background-position: -57px 55px 
+}
+
+.kirby {
+    background-position: -114px  55px
+}
+
+.fox {
+    background-position: -171px  55px
+}
+
+.pikachu {
+    background-position: -228px  55px
+}
+
+.jigglypuff {
+    background-position: -285px  55px
+}
